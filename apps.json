@@ -15,6 +15,7 @@
       "iconURL": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg",
       "tintColor": "32CD32",
       "size": 30445568,
+      "marketplaceID": 64835394261,
       "permissions": [
         {
           "type": "camera",
